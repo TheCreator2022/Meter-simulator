@@ -2,3 +2,12 @@ h1 {
   font-family:Arial;
   text-shadow:2px 3px green, 3px 4px blue;
 }
+
+input[type=number] {
+  background-color:yellow !important;
+}
+
+button {
+   cursor:pointer !important;
+   background-color:darkblue;
+}
