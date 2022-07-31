@@ -11,3 +11,14 @@ button {
    cursor:pointer !important;
    background-color:darkblue;
 }
+
+img.small {
+   display:block !important;
+   width:var(--image-width)
+   height:var(--image-height)
+}
+
+:root {
+  --image-width:102px;
+  --image-height:102px;
+}
